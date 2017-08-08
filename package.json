@@ -1,0 +1,15 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayushi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "mongoose": "^4.11.0"
+  }
+}
